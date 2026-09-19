@@ -1,6 +1,6 @@
-## Lab11.1 — Дерево решений и критерии информативности (Gini, Entropy)
+## Lab12.1 — Дерево решений и критерии информативности (Gini, Entropy)
 
-**Файл:** `Lab11_1.py`, `Wine_Quality_Data.csv`
+**Файл:** `Lab12_1.py`, `Wine_Quality_Data.csv`
 
 **Что делали:**
 - Загрузка данных о вине, кодирование категориального признака `color` через `LabelEncoder`
@@ -19,12 +19,12 @@
 **Как запустить:**
 ```bash
 cd Lab11\(12\)
-python Lab11_1.py
+python Lab12_1.py
 ```
 
-## Lab11.2 — Собственная реализация predict для дерева решений
+## Lab12.2 — Собственная реализация predict для дерева решений
 
-**Файл:** `Lab11_2.py`, `Wine_Quality_Data.csv`
+**Файл:** `Lab12_2.py`, `Wine_Quality_Data.csv`
 
 **Что делали:**
 - Подготовка данных: кодирование `color`, разделение на `x` и `y`, train/test split
@@ -40,12 +40,12 @@ python Lab11_1.py
 **Как запустить:**
 ```bash
 cd Lab11\(12\)
-python Lab11_2.py
+python Lab12_2.py
 ```
 
-## Lab11.3 — Случайный лес (Random Forest) и подбор гиперпараметров
+## Lab13 — Случайный лес (Random Forest) и подбор гиперпараметров
 
-**Файл:** `Lab11_3.py`, `Wine_Quality_Data.csv`
+**Файл:** `Lab13.py`, `Wine_Quality_Data.csv`
 
 **Что делали:**
 - Подготовка данных: кодирование `color`, разделение на `x` и `y`, train/test split
@@ -61,5 +61,5 @@ python Lab11_2.py
 **Как запустить:**
 ```bash
 cd Lab11\(12\)
-python Lab11_3.py
+python Lab13.py
 ```
