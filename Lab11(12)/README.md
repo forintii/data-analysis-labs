@@ -20,6 +20,7 @@
 ```bash
 cd Lab11\(12\)
 python Lab11_1.py
+```
 
 ## Lab11.2 — Собственная реализация predict для дерева решений
 
@@ -40,6 +41,7 @@ python Lab11_1.py
 ```bash
 cd Lab11\(12\)
 python Lab11_2.py
+```
 
 ## Lab11.3 — Случайный лес (Random Forest) и подбор гиперпараметров
 
@@ -60,3 +62,4 @@ python Lab11_2.py
 ```bash
 cd Lab11\(12\)
 python Lab11_3.py
+```
