@@ -1,4 +1,4 @@
-## Lab12.1 — Дерево решений и критерии информативности (Gini, Entropy)
+## Lab11.1 — Дерево решений и критерии информативности (Gini, Entropy)
 
 **Файл:** `Lab12_1.py`, `Wine_Quality_Data.csv`
 
@@ -22,7 +22,7 @@ cd Lab11\(12\)
 python Lab12_1.py
 ```
 
-## Lab12.2 — Собственная реализация predict для дерева решений
+## Lab11.2 — Собственная реализация predict для дерева решений
 
 **Файл:** `Lab12_2.py`, `Wine_Quality_Data.csv`
 
@@ -43,7 +43,7 @@ cd Lab11\(12\)
 python Lab12_2.py
 ```
 
-## Lab13 — Случайный лес (Random Forest) и подбор гиперпараметров
+## Lab11.3 — Случайный лес (Random Forest) и подбор гиперпараметров
 
 **Файл:** `Lab13.py`, `Wine_Quality_Data.csv`
 
